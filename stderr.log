@@ -1,0 +1,182 @@
+/home/robialih/todoApp/server.js:1
+Access-Control-Allow-Origin: *
+                           ^
+
+SyntaxError: Unexpected token :
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/robialih/todoApp/server.js:1
+Access-Control-Allow-Origin: *
+                           ^
+
+SyntaxError: Unexpected token :
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'cors'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/robialih/todoApp/server.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module 'cors'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (/home/robialih/todoApp/server.js:5:14)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+/home/robialih/todoApp/server.js:75
+  task.completed = req.body.completed : true;
+                                      ^
+
+SyntaxError: Unexpected token :
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/robialih/todoApp/server.js:75
+  task.completed = req.body.completed : true;
+                                      ^
+
+SyntaxError: Unexpected token :
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+/home/robialih/todoApp/server.js:75
+  task.completed = req.body.completed : true;
+                                      ^
+
+SyntaxError: Unexpected token :
+    at Module._compile (internal/modules/cjs/loader.js:723:23)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at startApplication (/usr/local/lsws/fcgi-bin/lsnode.js:48:15)
+    at Object.<anonymous> (/usr/local/lsws/fcgi-bin/lsnode.js:16:1)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:3919259) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 5)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 6)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 7)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 8)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 9)
+(node:3919259) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3919259) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 10)
+(node:3950208) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3950208) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:3950208) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:3950208) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3950208) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:3950208) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3950208) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 3)
+(node:3950208) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:3950208) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 4)
+(node:4021441) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:4021441) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:4021441) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4042358) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:4042358) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:4042358) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:4042358) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:4042358) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 2)
+(node:4095202) UnhandledPromiseRejectionWarning: SequelizeValidationError: notNull Violation: Task.title cannot be null
+    at InstanceValidator._validate (/home/robialih/nodevenv/todoApp/10/lib/node_modules/sequelize/lib/instance-validator.js:50:13)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+(node:4095202) UnhandledPromiseRejectionWarning: Unhandled promise rejection. This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). (rejection id: 1)
+(node:4095202) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
