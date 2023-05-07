@@ -3,7 +3,7 @@ const express = require('express');
 const bodyParser = require('body-parser');
 const { Sequelize, DataTypes } = require('sequelize');
 const cors = require('cors');
-const sequelize = new Sequelize('robialih_appAcademy', 'robialih_lawson', 'Yb~Zcn,0R(ch', {
+const sequelize = new Sequelize('database_name', 'user_name', 'password', {
   host: 'localhost',
   dialect: 'mysql'
 });
